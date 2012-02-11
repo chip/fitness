@@ -1,0 +1,7 @@
+Fitness application
+
+Stack:
+  * Sinatra
+  * Datamapper
+  * MySQL
+  * HAML
